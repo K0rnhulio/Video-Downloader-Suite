@@ -52,5 +52,4 @@ Thumbs.db
 *.exe
 bin/
 ffmpeg/
-webdriver/
 yt-dlp.exe
