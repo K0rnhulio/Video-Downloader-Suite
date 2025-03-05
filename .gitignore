@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Downloaded binaries and temporary files
+*.exe
+*.dll
+*.so
+*.dylib
+*.tmp
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Downloaded videos
+*/Downloads/

@@ -1,0 +1,5 @@
+pytube>=15.0.0
+selenium>=4.1.0
+requests>=2.25.1
+webdriver-manager>=3.8.0
+yt-dlp>=2023.11.14
